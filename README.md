@@ -5,7 +5,7 @@
  
 ## Features:
 
-•	Allow a secure chat which is constrained to the employee in the same chat room.
+•	Allows secure chat which is constrained to the employee in the same chat room.
 
 •	Permit universal file and directory sharing with viewing features.
 
